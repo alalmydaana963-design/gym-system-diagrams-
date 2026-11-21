@@ -283,12 +283,3 @@ classDiagram
     Member "1" --> "0..*" Attendance : records
     Admin "1" --> "0..*" Equipment : manages
 ```
-
----
-
-## طريقة الرفع على GitHub
-
-1. اعمل repository جديد.
-2. ارفع الملف ده باسم `README.md`.
-3. GitHub هيرندر كل الـ diagrams تلقائيًا.
-4. ابعت لينك الـ repo للمعيد.
